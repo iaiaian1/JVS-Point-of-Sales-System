@@ -1,0 +1,49 @@
+C:\Users\Jake\source\repos\POS\POS\bin\Debug\Database.mdf
+C:\Users\Jake\source\repos\POS\POS\bin\Debug\Database_log.ldf
+C:\Users\Jake\source\repos\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Jake\source\repos\POS\POS\bin\Debug\POS.exe
+C:\Users\Jake\source\repos\POS\POS\bin\Debug\POS.pdb
+C:\Users\Jake\source\repos\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\POS\POS\obj\Debug\POS.frmMain.resources
+C:\Users\Jake\source\repos\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Jake\source\repos\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Jake\source\repos\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\POS\POS\obj\Debug\POS.exe
+C:\Users\Jake\source\repos\POS\POS\obj\Debug\POS.pdb
+C:\Users\Jake\source\repos\POS\POS\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Jake\source\repos\POS\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Jake\source\repos\POS\POS\obj\Debug\POS.Form2.resources
+C:\Users\Jake\source\repos\POS\POS\obj\Debug\POS.loginform.resources
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\bin\Debug\Database.mdf
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\bin\Debug\Database_log.ldf
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\bin\Debug\POS.exe
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\bin\Debug\POS.pdb
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.loginform.resources
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.Form2.resources
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.frmMain.resources
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.exe
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.pdb
+C:\Users\Jake\source\repos\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.Form3.resources
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\bin\Debug\Database.mdf
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\bin\Debug\Database_log.ldf
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\bin\Debug\POS.exe
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\bin\Debug\POS.pdb
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.Form3.resources
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.loginform.resources
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.Form2.resources
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.frmMain.resources
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.exe
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.pdb
+C:\Users\Jake\source\repos\POS 6 3 2021 READY FOR PRESENTATION\POS 1-11-21 DESIGNED\POS\POS\obj\Debug\POS.RECEIPT_FORM.resources
