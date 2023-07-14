@@ -1,4 +1,4 @@
 # JVS POS System
 SIMPLE POS
 
-Project for school. Bare-bones and unoptimized with minor to noticeable bugs.
+Project for school. Bare-bones and unoptimized with minor to noticeable bugs. Made with C#/VB.net.
